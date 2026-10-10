@@ -1,0 +1,408 @@
+{
+  "version": 1,
+  "materials": {
+    "oak": {
+      "name": [
+        "Natural oak",
+        "بلوط طبیعی"
+      ],
+      "color": "#bb956d",
+      "kind": "wood"
+    },
+    "walnut": {
+      "name": [
+        "Walnut",
+        "گردو"
+      ],
+      "color": "#72503b",
+      "kind": "wood"
+    },
+    "ash": {
+      "name": [
+        "Light wood",
+        "چوب روشن"
+      ],
+      "color": "#d4bea0",
+      "kind": "wood"
+    },
+    "black": {
+      "name": [
+        "Charcoal finish",
+        "پرداخت ذغالی"
+      ],
+      "color": "#333630",
+      "kind": "paint"
+    },
+    "white": {
+      "name": [
+        "Warm white",
+        "سفید گرم"
+      ],
+      "color": "#e6e1d6",
+      "kind": "paint"
+    },
+    "stone": {
+      "name": [
+        "Light stone",
+        "سنگ روشن"
+      ],
+      "color": "#cfc3ac",
+      "kind": "stone"
+    },
+    "marble": {
+      "name": [
+        "Veined stone",
+        "سنگ رگه‌دار"
+      ],
+      "color": "#dad4c7",
+      "kind": "stone"
+    },
+    "metal": {
+      "name": [
+        "Dark metal",
+        "فلز تیره"
+      ],
+      "color": "#484b46",
+      "kind": "metal"
+    },
+    "lacquerSand": {
+      "name": [
+        "Sand lacquer",
+        "رنگ شنی"
+      ],
+      "color": "#b9a88c",
+      "kind": "paint"
+    },
+    "lacquerOlive": {
+      "name": [
+        "Olive lacquer",
+        "رنگ زیتونی"
+      ],
+      "color": "#72785b",
+      "kind": "paint"
+    },
+    "lacquerClay": {
+      "name": [
+        "Clay lacquer",
+        "رنگ آجری"
+      ],
+      "color": "#9a624d",
+      "kind": "paint"
+    },
+    "lacquerBlue": {
+      "name": [
+        "Deep blue lacquer",
+        "رنگ آبی تیره"
+      ],
+      "color": "#384b54",
+      "kind": "paint"
+    }
+  },
+  "upholstery": {
+    "fabric": {
+      "name": [
+        "Fabric",
+        "پارچه"
+      ]
+    },
+    "leather": {
+      "name": [
+        "Leather",
+        "چرم"
+      ]
+    }
+  },
+  "colors": {
+    "sand": {
+      "name": [
+        "Sand",
+        "شنی"
+      ],
+      "color": "#c5b69c"
+    },
+    "cream": {
+      "name": [
+        "Cream",
+        "کرم"
+      ],
+      "color": "#e1d9c9"
+    },
+    "olive": {
+      "name": [
+        "Olive",
+        "زیتونی"
+      ],
+      "color": "#7b8064"
+    },
+    "clay": {
+      "name": [
+        "Clay",
+        "آجری"
+      ],
+      "color": "#a86b52"
+    },
+    "charcoal": {
+      "name": [
+        "Charcoal",
+        "ذغالی"
+      ],
+      "color": "#4b4e4d"
+    },
+    "cognac": {
+      "name": [
+        "Cognac",
+        "عسلی"
+      ],
+      "color": "#99623b"
+    }
+  },
+  "types": {
+    "table": {
+      "name": [
+        "Tables",
+        "میز"
+      ],
+      "single": [
+        "Table",
+        "میز"
+      ],
+      "description": [
+        "Proportion, surface, structure.",
+        "تناسب، سطح، ساختار."
+      ],
+      "defaults": {
+        "width": 160,
+        "depth": 85,
+        "height": 75,
+        "thickness": 4,
+        "material": "oak",
+        "baseMaterial": "oak",
+        "legs": "four",
+        "edge": "soft"
+      },
+      "ranges": {
+        "width": [
+          80,
+          240
+        ],
+        "depth": [
+          50,
+          120
+        ],
+        "height": [
+          40,
+          90
+        ],
+        "thickness": [
+          3,
+          8
+        ]
+      }
+    },
+    "chair": {
+      "name": [
+        "Chairs",
+        "صندلی"
+      ],
+      "single": [
+        "Chair",
+        "صندلی"
+      ],
+      "description": [
+        "A seat, made yours.",
+        "نشیمنی به انتخاب شما."
+      ],
+      "defaults": {
+        "width": 52,
+        "depth": 54,
+        "height": 82,
+        "seatHeight": 45,
+        "material": "oak",
+        "upholstery": "fabric",
+        "color": "cream",
+        "arms": false
+      },
+      "ranges": {
+        "width": [
+          42,
+          68
+        ],
+        "depth": [
+          44,
+          68
+        ],
+        "height": [
+          72,
+          100
+        ],
+        "seatHeight": [
+          40,
+          50
+        ]
+      }
+    },
+    "sofa": {
+      "name": [
+        "Sofas",
+        "مبل"
+      ],
+      "single": [
+        "Sofa",
+        "مبل"
+      ],
+      "description": [
+        "Space to settle in.",
+        "جایی برای آسودن."
+      ],
+      "defaults": {
+        "width": 220,
+        "depth": 90,
+        "height": 82,
+        "seatHeight": 43,
+        "armWidth": 12,
+        "seats": 3,
+        "material": "walnut",
+        "upholstery": "fabric",
+        "color": "sand",
+        "tufted": false
+      },
+      "ranges": {
+        "width": [
+          140,
+          320
+        ],
+        "depth": [
+          75,
+          110
+        ],
+        "height": [
+          70,
+          100
+        ],
+        "seatHeight": [
+          38,
+          50
+        ],
+        "armWidth": [
+          8,
+          20
+        ],
+        "seats": [
+          2,
+          4
+        ]
+      }
+    },
+    "cabinet": {
+      "name": [
+        "Cabinets & wardrobes",
+        "کمد و کابینت"
+      ],
+      "single": [
+        "Cabinet",
+        "کمد"
+      ],
+      "description": [
+        "Doors, grooves, colour and storage.",
+        "در، شیار، رنگ و فضای داخلی."
+      ],
+      "defaults": {
+        "width": 210,
+        "depth": 60,
+        "height": 220,
+        "material": "oak",
+        "frontMaterial": "oak",
+        "columns": 3,
+        "doors": true,
+        "handles": "bar",
+        "doorStyle": "slab",
+        "groove": "none",
+        "bays": [
+          {
+            "type": "hang",
+            "shelves": 2,
+            "drawers": 2,
+            "weight": 1
+          },
+          {
+            "type": "shelves",
+            "shelves": 4,
+            "drawers": 2,
+            "weight": 1
+          },
+          {
+            "type": "drawers",
+            "shelves": 2,
+            "drawers": 3,
+            "weight": 1
+          }
+        ]
+      },
+      "ranges": {
+        "width": [
+          80,
+          360
+        ],
+        "depth": [
+          35,
+          75
+        ],
+        "height": [
+          100,
+          260
+        ],
+        "columns": [
+          1,
+          6
+        ]
+      }
+    },
+    "kitchen": {
+      "name": [
+        "Kitchen studio",
+        "استودیوی آشپزخانه"
+      ],
+      "single": [
+        "Kitchen",
+        "آشپزخانه"
+      ],
+      "description": [
+        "Plan cabinets, worktops and appliances.",
+        "کابینت، صفحه و تجهیزات را بچینید."
+      ],
+      "defaults": {
+        "width": 360,
+        "depth": 260,
+        "height": 240,
+        "material": "oak",
+        "frontMaterial": "white",
+        "counterMaterial": "stone",
+        "layout": "l",
+        "doorStyle": "slab",
+        "groove": "none",
+        "handles": "bar",
+        "sink": true,
+        "hob": true,
+        "hood": true,
+        "dishwasher": true,
+        "oven": true,
+        "fridge": true,
+        "island": false
+      },
+      "ranges": {
+        "width": [
+          240,
+          600
+        ],
+        "depth": [
+          180,
+          500
+        ],
+        "height": [
+          210,
+          280
+        ]
+      }
+    }
+  }
+}

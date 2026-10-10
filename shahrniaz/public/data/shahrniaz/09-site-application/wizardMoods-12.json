@@ -1,0 +1,80 @@
+{
+  "interior": [
+    [
+      "calm",
+      "Calm & minimal",
+      "آرام و مینیمال",
+      "calm"
+    ],
+    [
+      "warm",
+      "Warm & natural",
+      "گرم و طبیعی",
+      "warm"
+    ],
+    [
+      "bold",
+      "Bold & sculptural",
+      "جسور و مجسمه‌وار",
+      "bold"
+    ],
+    [
+      "open",
+      "Open to ideas",
+      "آمادهٔ ایده‌های تازه",
+      null
+    ]
+  ],
+  "exterior": [
+    [
+      "material",
+      "Warm materials",
+      "متریال گرم",
+      "villa"
+    ],
+    [
+      "urban",
+      "Urban contemporary",
+      "معاصر شهری",
+      "residential"
+    ],
+    [
+      "statement",
+      "Bold form",
+      "فرم شاخص",
+      "tower"
+    ],
+    [
+      "open",
+      "Open to ideas",
+      "آمادهٔ ایده‌های تازه",
+      null
+    ]
+  ],
+  "both": [
+    [
+      "warm",
+      "Warm & natural",
+      "گرم و طبیعی",
+      "warm"
+    ],
+    [
+      "material",
+      "Warm architecture",
+      "معماری گرم",
+      "villa"
+    ],
+    [
+      "urban",
+      "Urban contemporary",
+      "معاصر شهری",
+      "residential"
+    ],
+    [
+      "open",
+      "Open to ideas",
+      "آمادهٔ ایده‌های تازه",
+      null
+    ]
+  ]
+}

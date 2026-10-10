@@ -1,0 +1,50 @@
+[
+  {
+    "id": "ai",
+    "name": [
+      "Software / AI",
+      "Software / AI"
+    ],
+    "image": "courtyard",
+    "line": [
+      "A space for what comes next.",
+      "فضایی برای مرحلهٔ بعد."
+    ],
+    "alt": [
+      "Conceptual courtyard reference",
+      "تصویر مرجع مفهومی حیاط"
+    ]
+  },
+  {
+    "id": "building",
+    "name": [
+      "Building",
+      "ساختمان"
+    ],
+    "image": "real-shiraz-mall",
+    "line": [
+      "Architecture, engineering and construction.",
+      "معماری، مهندسی و اجرا."
+    ],
+    "alt": [
+      "Shiraz Mall Complex, supplied archive image",
+      "مجتمع شیرازمال، تصویر آرشیو ارسالی"
+    ]
+  },
+  {
+    "id": "products",
+    "name": [
+      "Furniture",
+      "مبلمان"
+    ],
+    "image": "objects",
+    "line": [
+      "Where craft meets new technology.",
+      "جایی که هنر ساخت و فناوری تازه به هم می‌رسند."
+    ],
+    "alt": [
+      "Sculptural metal objects and additive fabrication studies",
+      "آبجکت‌های فلزی فرم‌گرا و مطالعات ساخت افزایشی"
+    ]
+  }
+]

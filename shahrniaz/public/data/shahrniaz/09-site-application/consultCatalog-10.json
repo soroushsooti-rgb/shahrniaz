@@ -1,0 +1,140 @@
+{
+  "interior": {
+    "topics": [
+      [
+        "living",
+        "Living spaces",
+        "نشیمن و فضاهای زندگی",
+        "calm"
+      ],
+      [
+        "kitchen",
+        "Kitchens & dining",
+        "آشپزخانه و غذاخوری",
+        "kitchen"
+      ],
+      [
+        "workplace",
+        "Workplaces",
+        "فضاهای کاری",
+        "office"
+      ],
+      [
+        "hospitality",
+        "Hospitality interiors",
+        "فضاهای داخلی مهمان‌پذیری",
+        "food"
+      ],
+      [
+        "retail",
+        "Retail & public interiors",
+        "فضاهای تجاری و عمومی",
+        "atrium"
+      ],
+      [
+        "whole",
+        "Whole interior concept",
+        "کانسپت کل فضای داخلی",
+        "warm"
+      ]
+    ],
+    "directions": [
+      [
+        "calm",
+        "Calm & minimal",
+        "آرام و مینیمال",
+        "calm"
+      ],
+      [
+        "warm",
+        "Warm & natural",
+        "گرم و طبیعی",
+        "warm"
+      ],
+      [
+        "bold",
+        "Bold & sculptural",
+        "جسور و مجسمه‌وار",
+        "bold"
+      ],
+      [
+        "open",
+        "Explore with us",
+        "با هم کشف کنیم",
+        null
+      ]
+    ]
+  },
+  "exterior": {
+    "topics": [
+      [
+        "villa",
+        "Villa & house",
+        "ویلا و خانه",
+        "villa"
+      ],
+      [
+        "residential",
+        "Apartments & residential",
+        "آپارتمان و مسکونی",
+        "residential"
+      ],
+      [
+        "tower",
+        "Tower & mixed-use",
+        "برج و مجموعهٔ چندمنظوره",
+        "tower"
+      ],
+      [
+        "commercial",
+        "Retail & commercial",
+        "تجاری و فروشگاهی",
+        "commercial"
+      ],
+      [
+        "facade",
+        "Façade refresh",
+        "بازطراحی نما",
+        "mall"
+      ],
+      [
+        "landscape",
+        "Landscape & outdoor",
+        "محوطه و فضای باز",
+        "garden"
+      ]
+    ],
+    "directions": [
+      [
+        "material",
+        "Warm materiality",
+        "متریال گرم",
+        "villa"
+      ],
+      [
+        "urban",
+        "Urban contemporary",
+        "معاصر شهری",
+        "residential"
+      ],
+      [
+        "public",
+        "Open & inviting",
+        "باز و دعوت‌کننده",
+        "commercial"
+      ],
+      [
+        "statement",
+        "A bold statement",
+        "شاخص و جسور",
+        "tower"
+      ],
+      [
+        "open",
+        "Explore with us",
+        "با هم کشف کنیم",
+        null
+      ]
+    ]
+  }
+}

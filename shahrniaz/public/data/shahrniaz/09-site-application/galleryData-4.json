@@ -1,0 +1,128 @@
+[
+  {
+    "id": "mall",
+    "name": [
+      "Shiraz Mall",
+      "شیرازمال"
+    ],
+    "category": "commercial",
+    "label": [
+      "Commercial architecture",
+      "معماری تجاری"
+    ],
+    "images": [
+      "mall",
+      "mall-detail",
+      "mall-street",
+      "mall-aerial",
+      "atrium"
+    ],
+    "desc": [
+      "Brick, glass and a new relationship with the city. A selection from the studio’s commercial architecture archive.",
+      "آجر، شیشه و رابطه‌ای تازه با شهر؛ گزیده‌ای از آرشیو معماری تجاری استودیو."
+    ]
+  },
+  {
+    "id": "cinema",
+    "name": [
+      "Cinema & gathering",
+      "سینما و فضاهای جمعی"
+    ],
+    "category": "interiors",
+    "label": [
+      "Cultural interiors",
+      "فضاهای داخلی فرهنگی"
+    ],
+    "images": [
+      "cinema",
+      "cinema-blue",
+      "lobby",
+      "lobby2"
+    ],
+    "desc": [
+      "Spaces for shared experiences, from the entrance hall to the auditorium.",
+      "فضاهایی برای تجربه‌های مشترک، از لابی ورودی تا سالن نمایش."
+    ]
+  },
+  {
+    "id": "villa",
+    "name": [
+      "A house in the landscape",
+      "خانه‌ای در منظر"
+    ],
+    "category": "residential",
+    "label": [
+      "Residential architecture",
+      "معماری مسکونی"
+    ],
+    "images": [
+      "villa",
+      "villa2"
+    ],
+    "desc": [
+      "A courtyard, water and warm materials connect everyday life to the outdoors. Selected residential work from the Iran archive.",
+      "حیاط، آب و متریال‌های گرم، زندگی روزمره را به فضای باز پیوند می‌دهند؛ منتخبی از آرشیو مسکونی ایران."
+    ]
+  },
+  {
+    "id": "garden",
+    "name": [
+      "Eram Rock Garden",
+      "باغ صخره‌ای ارم"
+    ],
+    "category": "landscape",
+    "label": [
+      "Landscape",
+      "لندسکیپ"
+    ],
+    "images": [
+      "garden",
+      "garden2"
+    ],
+    "desc": [
+      "A landscape experienced through water, stone, planting and movement.",
+      "منظری که با آب، سنگ، گیاه و حرکت تجربه می‌شود."
+    ]
+  },
+  {
+    "id": "facade",
+    "name": [
+      "Residential façade",
+      "نمای مسکونی"
+    ],
+    "category": "residential",
+    "label": [
+      "Residential archive",
+      "آرشیو مسکونی"
+    ],
+    "images": [
+      "facade",
+      "facade2"
+    ],
+    "desc": [
+      "Solid and void, shade and colour: a study in the character of a residential building.",
+      "پر و خالی، سایه و رنگ؛ مطالعه‌ای در هویت یک ساختمان مسکونی."
+    ]
+  },
+  {
+    "id": "hospitality",
+    "name": [
+      "Shiraz Mall Food Court",
+      "فودکورت شیرازمال"
+    ],
+    "category": "interiors",
+    "label": [
+      "Hospitality · Shiraz Mall",
+      "پذیرایی · شیرازمال"
+    ],
+    "images": [
+      "food",
+      "food2",
+      "food3"
+    ],
+    "desc": [
+      "Dining spaces and an outdoor terrace overlooking Shiraz. Geometric ceiling panels, integrated lighting and a glazed perimeter connect the interior to the city.",
+      "فضای غذاخوری و تراس باز با چشم‌انداز شیراز؛ صفحات هندسی سقف، نورپردازی یکپارچه و جدارهٔ شیشه‌ای، فضای داخلی را به شهر پیوند می‌دهند."
+    ]
+  }
+]

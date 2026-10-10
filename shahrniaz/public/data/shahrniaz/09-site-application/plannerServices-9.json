@@ -1,0 +1,52 @@
+{
+  "management": {
+    "name": [
+      "Project management",
+      "مدیریت پروژه"
+    ],
+    "desc": [
+      "Scope, coordination and delivery",
+      "دامنهٔ کار، هماهنگی و تحویل"
+    ]
+  },
+  "build": {
+    "name": [
+      "Construction",
+      "اجرا"
+    ],
+    "desc": [
+      "From approved scope to built work",
+      "از دامنهٔ مصوب تا اجرای پروژه"
+    ]
+  },
+  "design": {
+    "name": [
+      "Architecture & interiors",
+      "معماری و طراحی داخلی"
+    ],
+    "desc": [
+      "Concept, spatial planning and detail",
+      "کانسپت، برنامه‌ریزی فضا و جزئیات"
+    ]
+  },
+  "engineering": {
+    "name": [
+      "Structural & MEP engineering",
+      "مهندسی سازه و تأسیسات"
+    ],
+    "desc": [
+      "Technical coordination and drawings",
+      "هماهنگی فنی و نقشه‌ها"
+    ]
+  },
+  "landscape": {
+    "name": [
+      "Landscape",
+      "لندسکیپ"
+    ],
+    "desc": [
+      "Outdoor spaces and planting",
+      "فضاهای باز و کاشت"
+    ]
+  }
+}

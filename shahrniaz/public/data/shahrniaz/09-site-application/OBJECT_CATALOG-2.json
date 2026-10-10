@@ -1,0 +1,74 @@
+[
+  {
+    "id": "table",
+    "en": "Tables",
+    "fa": "میزها",
+    "image": "room-dining",
+    "descEn": "Dining, coffee, side and meeting tables made around your space.",
+    "descFa": "میز غذاخوری، جلو مبلی، کنار مبلی و جلسه متناسب با فضای شما."
+  },
+  {
+    "id": "chair",
+    "en": "Chairs",
+    "fa": "صندلی‌ها",
+    "image": "room-living",
+    "descEn": "Dining, lounge and statement seating with considered proportions.",
+    "descFa": "صندلی غذاخوری، راحتی و شاخص با تناسبات دقیق."
+  },
+  {
+    "id": "sofa",
+    "en": "Sofas & seating",
+    "fa": "مبل و نشیمن",
+    "image": "room-living",
+    "descEn": "Modular and made-to-measure pieces for the way you live.",
+    "descFa": "مبلمان ماژولار و سفارشی متناسب با شیوهٔ زندگی شما."
+  },
+  {
+    "id": "cabinet",
+    "en": "Storage & cabinetry",
+    "fa": "کمد و کابینت",
+    "image": "room-storage",
+    "descEn": "Wardrobes, shelving, display and concealed storage.",
+    "descFa": "کمد، قفسه، ویترین و فضاهای نگهداری پنهان."
+  },
+  {
+    "id": "kitchen",
+    "en": "Kitchens",
+    "fa": "آشپزخانه",
+    "image": "room-kitchen",
+    "descEn": "Cabinetry, islands and lighting designed as one room.",
+    "descFa": "کابینت، جزیره و نورپردازی که با هم یک فضا می‌سازند."
+  },
+  {
+    "id": "bed",
+    "en": "Beds & bedrooms",
+    "fa": "تخت و اتاق‌خواب",
+    "image": "room-bedroom",
+    "descEn": "Beds, headboards and bedroom pieces shaped around calm routines.",
+    "descFa": "تخت، تاج تخت و وسایل اتاق‌خواب متناسب با آرامش روزمره."
+  },
+  {
+    "id": "lighting",
+    "en": "Lighting",
+    "fa": "نورپردازی و چراغ",
+    "image": "concept-light",
+    "descEn": "Pendants, wall lights and sculptural fixtures.",
+    "descFa": "چراغ‌های آویز، دیواری و نورپردازی مجسمه‌وار."
+  },
+  {
+    "id": "billiard",
+    "en": "Billiard tables",
+    "fa": "میز بیلیارد",
+    "image": "billiard",
+    "descEn": "A billiard table designed as furniture, with room for play and gathering.",
+    "descFa": "میز بیلیارد به‌مثابه یک قطعهٔ مبلمان؛ برای بازی و دورهمی."
+  },
+  {
+    "id": "bespoke",
+    "en": "Anything else",
+    "fa": "هر وسیلهٔ دیگر",
+    "image": "concept-console",
+    "descEn": "An object you have imagined, drawn or never found anywhere else.",
+    "descFa": "وسیله‌ای که تصورش کرده‌اید، کشیده‌اید یا نمونه‌اش را جایی پیدا نکرده‌اید."
+  }
+]

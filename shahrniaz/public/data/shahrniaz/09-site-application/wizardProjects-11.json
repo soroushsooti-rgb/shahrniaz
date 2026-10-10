@@ -1,0 +1,116 @@
+{
+  "interior": [
+    [
+      "apartment",
+      "Apartment",
+      "آپارتمان",
+      "calm"
+    ],
+    [
+      "villa",
+      "Villa / house",
+      "ویلا / خانه",
+      "warm"
+    ],
+    [
+      "office",
+      "Office / workplace",
+      "دفتر / فضای کار",
+      "office"
+    ],
+    [
+      "retail",
+      "Retail / shop",
+      "فروشگاه / تجاری",
+      "atrium"
+    ],
+    [
+      "hospitality",
+      "Restaurant / hotel",
+      "رستوران / هتل",
+      "food"
+    ],
+    [
+      "other",
+      "Something else",
+      "چیز دیگر",
+      null
+    ]
+  ],
+  "exterior": [
+    [
+      "villa",
+      "Villa / house",
+      "ویلا / خانه",
+      "villa"
+    ],
+    [
+      "residential",
+      "Residential building",
+      "ساختمان مسکونی",
+      "residential"
+    ],
+    [
+      "tower",
+      "Tower / mixed-use",
+      "برج / چندمنظوره",
+      "tower"
+    ],
+    [
+      "commercial",
+      "Commercial building",
+      "ساختمان تجاری",
+      "commercial"
+    ],
+    [
+      "landscape",
+      "Landscape / outdoor",
+      "محوطه / فضای باز",
+      "garden"
+    ],
+    [
+      "other",
+      "Something else",
+      "چیز دیگر",
+      null
+    ]
+  ],
+  "both": [
+    [
+      "villa",
+      "Villa / house",
+      "ویلا / خانه",
+      "villa"
+    ],
+    [
+      "residential",
+      "Residential building",
+      "ساختمان مسکونی",
+      "residential"
+    ],
+    [
+      "tower",
+      "Tower / mixed-use",
+      "برج / چندمنظوره",
+      "tower"
+    ],
+    [
+      "office",
+      "Office / workplace",
+      "دفتر / فضای کار",
+      "office"
+    ],
+    [
+      "commercial",
+      "Commercial / hospitality",
+      "تجاری / مهمان‌پذیری",
+      "commercial"
+    ],
+    [
+      "other",
+      "Something else",
+      "چیز دیگر",
+      null
+    ]
+  ]
+}

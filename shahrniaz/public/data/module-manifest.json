@@ -1,0 +1,170 @@
+[
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/01-language-init.js",
+    "role": "language-init",
+    "original_order": 1
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/02-language-additions.js",
+    "role": "language-additions",
+    "original_order": 2
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/04-admin-preview.js",
+    "role": "admin-preview",
+    "original_order": 4
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/05-plot-editor.js",
+    "role": "plot-editor",
+    "original_order": 5
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/06-object-form.js",
+    "role": "object-form",
+    "original_order": 6
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/07-private-configurator.js",
+    "role": "private-configurator",
+    "original_order": 7
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/08-language-runtime.js",
+    "role": "language-runtime",
+    "original_order": 8
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "css",
+    "file": "css/shahrniaz/01-base.css",
+    "role": "base",
+    "original_order": 1
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "css",
+    "file": "css/shahrniaz/02-layout-refinements.css",
+    "role": "layout-refinements",
+    "original_order": 2
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "css",
+    "file": "css/shahrniaz/03-admin-preview.css",
+    "role": "admin-preview",
+    "original_order": 3
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "css",
+    "file": "css/shahrniaz/04-autumn-update.css",
+    "role": "autumn-update",
+    "original_order": 4
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "css",
+    "file": "css/shahrniaz/05-private-configurator.css",
+    "role": "private-configurator",
+    "original_order": 5
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "css",
+    "file": "css/shahrniaz/06-language.css",
+    "role": "language",
+    "original_order": 6
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "css",
+    "file": "css/shahrniaz/07-customer-flow.css",
+    "role": "customer-flow",
+    "original_order": 7
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/01-embedded-assets.js",
+    "role": "embedded-assets",
+    "original_order": "3.1"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/02-three-vendor.js",
+    "role": "three-vendor",
+    "original_order": "3.2"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/03-geometry-helpers.js",
+    "role": "geometry-helpers",
+    "original_order": "3.3"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/04-furniture-catalog.js",
+    "role": "furniture-catalog",
+    "original_order": "3.4"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/05-furniture-state.js",
+    "role": "furniture-state",
+    "original_order": "3.5"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/06-furniture-renderer.js",
+    "role": "furniture-renderer",
+    "original_order": "3.6"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/07-furniture-configurator.js",
+    "role": "furniture-configurator",
+    "original_order": "3.7"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/08-kitchen-planner.js",
+    "role": "kitchen-planner",
+    "original_order": "3.8"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "javascript",
+    "file": "js/shahrniaz/features/09-site-application.js",
+    "role": "site-application",
+    "original_order": "3.9"
+  },
+  {
+    "site": "shahrniaz",
+    "kind": "css",
+    "file": "css/shahrniaz/template-overrides.css",
+    "role": "template-overrides",
+    "original_order": "static-view-styles"
+  }
+]

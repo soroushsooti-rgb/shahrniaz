@@ -1,0 +1,116 @@
+{
+  "interior": [
+    [
+      "soft",
+      "Soft modern",
+      "مدرنِ نرم",
+      "calm"
+    ],
+    [
+      "earth",
+      "Earth & texture",
+      "خاکی و بافت‌دار",
+      "warm"
+    ],
+    [
+      "crafted",
+      "Crafted detail",
+      "جزئیات دست‌ساز",
+      "kitchen"
+    ],
+    [
+      "sculptural",
+      "Sculptural",
+      "فرم‌محور",
+      "bold"
+    ],
+    [
+      "gallery",
+      "Gallery calm",
+      "آرامش گالری",
+      "atrium"
+    ],
+    [
+      "open",
+      "Surprise me",
+      "ایده‌های تازه",
+      null
+    ]
+  ],
+  "exterior": [
+    [
+      "warm",
+      "Warm stone",
+      "سنگِ گرم",
+      "villa"
+    ],
+    [
+      "brick",
+      "Brick rhythm",
+      "ریتم آجر",
+      "mall"
+    ],
+    [
+      "urban",
+      "Urban clarity",
+      "شفافیت شهری",
+      "residential"
+    ],
+    [
+      "green",
+      "Landscape led",
+      "محوطه‌محور",
+      "garden"
+    ],
+    [
+      "landmark",
+      "Distinctive form",
+      "فرم شاخص",
+      "tower"
+    ],
+    [
+      "open",
+      "Surprise me",
+      "ایده‌های تازه",
+      null
+    ]
+  ],
+  "both": [
+    [
+      "warm",
+      "Warm modern",
+      "مدرنِ گرم",
+      "warm"
+    ],
+    [
+      "brick",
+      "Brick & craft",
+      "آجر و جزئیات",
+      "mall"
+    ],
+    [
+      "nature",
+      "Nature connected",
+      "پیوند با طبیعت",
+      "garden"
+    ],
+    [
+      "urban",
+      "Urban contemporary",
+      "معاصر شهری",
+      "residential"
+    ],
+    [
+      "bold",
+      "Sculptural",
+      "فرم‌محور",
+      "bold"
+    ],
+    [
+      "open",
+      "Surprise me",
+      "ایده‌های تازه",
+      null
+    ]
+  ]
+}

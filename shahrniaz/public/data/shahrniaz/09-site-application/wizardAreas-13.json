@@ -1,0 +1,98 @@
+{
+  "interior": [
+    [
+      "living",
+      "Living spaces",
+      "نشیمن"
+    ],
+    [
+      "kitchen",
+      "Kitchen & dining",
+      "آشپزخانه و غذاخوری"
+    ],
+    [
+      "bedroom",
+      "Bedrooms",
+      "اتاق‌خواب"
+    ],
+    [
+      "bathroom",
+      "Bathrooms",
+      "سرویس و حمام"
+    ],
+    [
+      "workplace",
+      "Workplace",
+      "فضای کار"
+    ],
+    [
+      "furniture",
+      "Furniture & joinery",
+      "مبلمان و کابینت"
+    ]
+  ],
+  "exterior": [
+    [
+      "facade",
+      "Façade",
+      "نما"
+    ],
+    [
+      "entrance",
+      "Entrance",
+      "ورودی"
+    ],
+    [
+      "terrace",
+      "Terrace / balcony",
+      "تراس / بالکن"
+    ],
+    [
+      "landscape",
+      "Garden / landscape",
+      "باغ / محوطه"
+    ],
+    [
+      "massing",
+      "Building form",
+      "فرم ساختمان"
+    ],
+    [
+      "public",
+      "Street / public edge",
+      "لبهٔ شهری"
+    ]
+  ],
+  "both": [
+    [
+      "interior",
+      "Interior spaces",
+      "فضاهای داخلی"
+    ],
+    [
+      "facade",
+      "Façade",
+      "نما"
+    ],
+    [
+      "kitchen",
+      "Kitchen",
+      "آشپزخانه"
+    ],
+    [
+      "landscape",
+      "Garden / landscape",
+      "باغ / محوطه"
+    ],
+    [
+      "furniture",
+      "Furniture",
+      "مبلمان"
+    ],
+    [
+      "building",
+      "Whole building",
+      "کل ساختمان"
+    ]
+  ]
+}

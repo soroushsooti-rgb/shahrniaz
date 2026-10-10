@@ -1,0 +1,254 @@
+{
+  "shahrniaz/04-admin-preview/menuRows-2": {
+    "file": "templates/shahrniaz/04-admin-preview/menuRows-2.html",
+    "javascript": "js/shahrniaz/04-admin-preview.js",
+    "owner": "menuRows",
+    "slots": 0
+  },
+  "shahrniaz/04-admin-preview/authModal-1": {
+    "file": "templates/shahrniaz/04-admin-preview/authModal-1.html",
+    "javascript": "js/shahrniaz/04-admin-preview.js",
+    "owner": "authModal",
+    "slots": 0
+  },
+  "shahrniaz/07-private-configurator/billiardPage-2": {
+    "file": "templates/shahrniaz/07-private-configurator/billiardPage-2.html",
+    "javascript": "js/shahrniaz/07-private-configurator.js",
+    "owner": "billiardPage",
+    "slots": 0
+  },
+  "shahrniaz/07-private-configurator/billiardPage-1": {
+    "file": "templates/shahrniaz/07-private-configurator/billiardPage-1.html",
+    "javascript": "js/shahrniaz/07-private-configurator.js",
+    "owner": "billiardPage",
+    "slots": 0
+  },
+  "shahrniaz/07-furniture-configurator/drawPanels-5": {
+    "file": "templates/shahrniaz/07-furniture-configurator/drawPanels-5.html",
+    "javascript": "js/shahrniaz/features/07-furniture-configurator.js",
+    "owner": "drawPanels",
+    "slots": 7
+  },
+  "shahrniaz/07-furniture-configurator/details-4": {
+    "file": "templates/shahrniaz/07-furniture-configurator/details-4.html",
+    "javascript": "js/shahrniaz/features/07-furniture-configurator.js",
+    "owner": "details",
+    "slots": 13
+  },
+  "shahrniaz/07-furniture-configurator/swatches-3": {
+    "file": "templates/shahrniaz/07-furniture-configurator/swatches-3.html",
+    "javascript": "js/shahrniaz/features/07-furniture-configurator.js",
+    "owner": "swatches",
+    "slots": 8
+  },
+  "shahrniaz/07-furniture-configurator/range-2": {
+    "file": "templates/shahrniaz/07-furniture-configurator/range-2.html",
+    "javascript": "js/shahrniaz/features/07-furniture-configurator.js",
+    "owner": "range",
+    "slots": 19
+  },
+  "shahrniaz/07-furniture-configurator/page-1": {
+    "file": "templates/shahrniaz/07-furniture-configurator/page-1.html",
+    "javascript": "js/shahrniaz/features/07-furniture-configurator.js",
+    "owner": "page",
+    "slots": 28
+  },
+  "shahrniaz/08-kitchen-planner/bindOnboarding-8": {
+    "file": "templates/shahrniaz/08-kitchen-planner/bindOnboarding-8.html",
+    "javascript": "js/shahrniaz/features/08-kitchen-planner.js",
+    "owner": "bindOnboarding",
+    "slots": 11
+  },
+  "shahrniaz/08-kitchen-planner/injectDoorActions-7": {
+    "file": "templates/shahrniaz/08-kitchen-planner/injectDoorActions-7.html",
+    "javascript": "js/shahrniaz/features/08-kitchen-planner.js",
+    "owner": "injectDoorActions",
+    "slots": 13
+  },
+  "shahrniaz/08-kitchen-planner/review-6": {
+    "file": "templates/shahrniaz/08-kitchen-planner/review-6.html",
+    "javascript": "js/shahrniaz/features/08-kitchen-planner.js",
+    "owner": "review",
+    "slots": 17
+  },
+  "shahrniaz/08-kitchen-planner/moduleEditor-5": {
+    "file": "templates/shahrniaz/08-kitchen-planner/moduleEditor-5.html",
+    "javascript": "js/shahrniaz/features/08-kitchen-planner.js",
+    "owner": "moduleEditor",
+    "slots": 27
+  },
+  "shahrniaz/08-kitchen-planner/panel-4": {
+    "file": "templates/shahrniaz/08-kitchen-planner/panel-4.html",
+    "javascript": "js/shahrniaz/features/08-kitchen-planner.js",
+    "owner": "panel",
+    "slots": 20
+  },
+  "shahrniaz/08-kitchen-planner/panel-3": {
+    "file": "templates/shahrniaz/08-kitchen-planner/panel-3.html",
+    "javascript": "js/shahrniaz/features/08-kitchen-planner.js",
+    "owner": "panel",
+    "slots": 10
+  },
+  "shahrniaz/08-kitchen-planner/panel-2": {
+    "file": "templates/shahrniaz/08-kitchen-planner/panel-2.html",
+    "javascript": "js/shahrniaz/features/08-kitchen-planner.js",
+    "owner": "panel",
+    "slots": 14
+  },
+  "shahrniaz/08-kitchen-planner/page-1": {
+    "file": "templates/shahrniaz/08-kitchen-planner/page-1.html",
+    "javascript": "js/shahrniaz/features/08-kitchen-planner.js",
+    "owner": "page",
+    "slots": 24
+  },
+  "shahrniaz/09-site-application/view-25": {
+    "file": "templates/shahrniaz/09-site-application/view-25.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "view",
+    "slots": 4
+  },
+  "shahrniaz/09-site-application/renderFiles-24": {
+    "file": "templates/shahrniaz/09-site-application/renderFiles-24.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "renderFiles",
+    "slots": 6
+  },
+  "shahrniaz/09-site-application/settingsPage-23": {
+    "file": "templates/shahrniaz/09-site-application/settingsPage-23.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "settingsPage",
+    "slots": 9
+  },
+  "shahrniaz/09-site-application/settingsPage-22": {
+    "file": "templates/shahrniaz/09-site-application/settingsPage-22.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "settingsPage",
+    "slots": 9
+  },
+  "shahrniaz/09-site-application/estimatePage-21": {
+    "file": "templates/shahrniaz/09-site-application/estimatePage-21.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "estimatePage",
+    "slots": 113
+  },
+  "shahrniaz/09-site-application/contact-20": {
+    "file": "templates/shahrniaz/09-site-application/contact-20.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "contact",
+    "slots": 4
+  },
+  "shahrniaz/09-site-application/ai-19": {
+    "file": "templates/shahrniaz/09-site-application/ai-19.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "ai",
+    "slots": 9
+  },
+  "shahrniaz/09-site-application/building-18": {
+    "file": "templates/shahrniaz/09-site-application/building-18.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "building",
+    "slots": 5
+  },
+  "shahrniaz/09-site-application/home-17": {
+    "file": "templates/shahrniaz/09-site-application/home-17.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "home",
+    "slots": 45
+  },
+  "shahrniaz/09-site-application/card-16": {
+    "file": "templates/shahrniaz/09-site-application/card-16.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "card",
+    "slots": 3
+  },
+  "shahrniaz/09-site-application/partnersPage-15": {
+    "file": "templates/shahrniaz/09-site-application/partnersPage-15.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "partnersPage",
+    "slots": 2
+  },
+  "shahrniaz/09-site-application/partnersTeaser-14": {
+    "file": "templates/shahrniaz/09-site-application/partnersTeaser-14.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "partnersTeaser",
+    "slots": 1
+  },
+  "shahrniaz/09-site-application/painting-13": {
+    "file": "templates/shahrniaz/09-site-application/painting-13.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "painting",
+    "slots": 7
+  },
+  "shahrniaz/09-site-application/oldBuilding-12": {
+    "file": "templates/shahrniaz/09-site-application/oldBuilding-12.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "oldBuilding",
+    "slots": 22
+  },
+  "shahrniaz/09-site-application/products-11": {
+    "file": "templates/shahrniaz/09-site-application/products-11.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "products",
+    "slots": 0
+  },
+  "shahrniaz/09-site-application/objectQuestion-10": {
+    "file": "templates/shahrniaz/09-site-application/objectQuestion-10.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "objectQuestion",
+    "slots": 0
+  },
+  "shahrniaz/09-site-application/objectStudies-9": {
+    "file": "templates/shahrniaz/09-site-application/objectStudies-9.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "objectStudies",
+    "slots": 6
+  },
+  "shahrniaz/09-site-application/objectStudies-8": {
+    "file": "templates/shahrniaz/09-site-application/objectStudies-8.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "objectStudies",
+    "slots": 6
+  },
+  "shahrniaz/09-site-application/worldHero-7": {
+    "file": "templates/shahrniaz/09-site-application/worldHero-7.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "worldHero",
+    "slots": 8
+  },
+  "shahrniaz/09-site-application/oldHome-6": {
+    "file": "templates/shahrniaz/09-site-application/oldHome-6.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "oldHome",
+    "slots": 10
+  },
+  "shahrniaz/09-site-application/oldHome-5": {
+    "file": "templates/shahrniaz/09-site-application/oldHome-5.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "oldHome",
+    "slots": 5
+  },
+  "shahrniaz/09-site-application/shell-4": {
+    "file": "templates/shahrniaz/09-site-application/shell-4.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "shell",
+    "slots": 5
+  },
+  "shahrniaz/09-site-application/shell-3": {
+    "file": "templates/shahrniaz/09-site-application/shell-3.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "shell",
+    "slots": 6
+  },
+  "shahrniaz/09-site-application/brand-2": {
+    "file": "templates/shahrniaz/09-site-application/brand-2.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "brand",
+    "slots": 2
+  },
+  "shahrniaz/09-site-application/sketch-1": {
+    "file": "templates/shahrniaz/09-site-application/sketch-1.html",
+    "javascript": "js/shahrniaz/features/09-site-application.js",
+    "owner": "sketch",
+    "slots": 0
+  }
+}

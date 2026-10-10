@@ -1,0 +1,7 @@
+"""App metadata. Assets and website routes belong only to this app."""
+app_name = "shahrniaz"
+app_title = "Shahr Niaz"
+app_publisher = "SHN"
+app_description = "Independent Shahr Niaz website"
+app_email = ""
+app_license = "Proprietary"

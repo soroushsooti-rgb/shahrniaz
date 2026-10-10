@@ -1,0 +1,309 @@
+/* مسئولیت این فایل: پیش‌نمایش دارای کد سمت مرورگر و طراحی میز بیلیارد. */
+/* SHN / shahrniaz / private-configurator. Original cascade position: 5. */
+.sn-gate {
+  position: relative;
+  min-height: calc(100svh - 80px);
+  overflow: hidden;
+  background: #172019;
+  color: #fff;
+}
+.sn-gate-stage {
+  filter: blur(9px) brightness(0.55);
+  opacity: 0.55;
+  pointer-events: none;
+  user-select: none;
+  max-height: 105svh;
+  overflow: hidden;
+  transform: scale(1.015);
+}
+.sn-gate-shade {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(12, 20, 15, 0.92),
+    rgba(12, 20, 15, 0.7) 55%,
+    rgba(12, 20, 15, 0.25)
+  );
+  pointer-events: none;
+}
+.sn-gate-photo {
+  position: absolute;
+  right: 2.5%;
+  top: 11%;
+  width: 51%;
+  height: 77%;
+  object-fit: cover;
+  filter: blur(5px) brightness(0.7);
+  opacity: 0.62;
+  pointer-events: none;
+}
+.sn-gate-card {
+  position: absolute;
+  z-index: 3;
+  top: 50%;
+  left: max(5vw, 24px);
+  transform: translateY(-50%);
+  width: min(560px, calc(100% - 48px));
+  padding: clamp(28px, 4vw, 56px);
+  background: #f4f1eb;
+  color: #202820;
+  box-shadow: 0 24px 80px #07100966;
+}
+.sn-gate-back {
+  display: inline-block;
+  margin-bottom: 42px;
+  font-size: 12px;
+  color: #566151;
+}
+.sn-gate-kicker {
+  display: block;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  font-weight: 700;
+  color: #7d8968;
+}
+.sn-gate-card h1 {
+  font-family: Georgia, serif;
+  font-weight: 400;
+  letter-spacing: -0.055em;
+  font-size: clamp(34px, 4.3vw, 62px);
+  line-height: 1.03;
+  margin: 18px 0 22px;
+}
+.sn-gate-card > p {
+  font-size: 15px;
+  line-height: 1.65;
+  color: #596157;
+  max-width: 48ch;
+}
+.sn-gate-hints {
+  display: flex;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin: 30px 0;
+}
+.sn-gate-hints span {
+  border: 1px solid #b9c1ae;
+  padding: 9px 11px;
+  font-size: 10px;
+  letter-spacing: 0.06em;
+}
+#sn-gate-form label {
+  display: block;
+  font-size: 12px;
+  font-weight: 650;
+}
+#sn-gate-form input {
+  display: block;
+  width: 100%;
+  margin: 10px 0 12px;
+  padding: 14px 16px;
+  background: #fff;
+  border: 1px solid #b5bdae;
+  color: #172019;
+  font-size: 16px;
+}
+#sn-gate-form button {
+  width: 100%;
+  padding: 15px;
+  background: #263d2c;
+  color: #fff;
+  border: 0;
+  cursor: pointer;
+  font-size: 12px;
+  text-align: left;
+}
+#sn-gate-error {
+  min-height: 20px;
+  font-size: 12px;
+  color: #9c302d;
+  margin: 8px 0;
+}
+.sn-gate-card small {
+  font-size: 11px;
+  color: #6b7568;
+}
+.config-mode #sn-project-assistant {
+  display: none !important;
+}
+#sn-config-relock {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 9500;
+  padding: 11px 16px;
+  background: #f3f0e9;
+  color: #263d2c;
+  border: 1px solid #71816a;
+  box-shadow: 0 6px 20px #0003;
+  cursor: pointer;
+  font-size: 12px;
+}
+.sn-object-preview-actions {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin-top: 22px;
+}
+.sn-object-private-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  border: 1px solid #4c5d49;
+  padding: 14px 19px;
+  font-size: 12px;
+  color: #243d2d;
+}
+.sn-billiard-config {
+  padding-top: 24px;
+  padding-bottom: 80px;
+}
+.sn-billiard-config-head {
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  border-bottom: 1px solid #d1d4ca;
+  padding-bottom: 22px;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+}
+.sn-billiard-config-head span {
+  color: #839075;
+}
+.sn-billiard-config-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.15fr) minmax(340px, 0.85fr);
+  gap: clamp(26px, 4vw, 70px);
+  padding-top: 38px;
+}
+.sn-billiard-config-photo {
+  aspect-ratio: 1.5;
+  overflow: hidden;
+  background: #b4a28e;
+}
+.sn-billiard-config-photo img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.sn-billiard-plan {
+  margin-top: 18px;
+  padding: 24px;
+  background: #e8e6dd;
+}
+.sn-billiard-plan > span {
+  font-size: 10px;
+  letter-spacing: 0.14em;
+  color: #6c7866;
+}
+.sn-billiard-plan svg {
+  display: block;
+  width: 100%;
+  margin: 8px auto;
+}
+.sn-billiard-dim {
+  text-align: center;
+  color: #596658;
+  font-size: 11px;
+}
+#sn-billiard-form h1 {
+  font-family: Georgia, serif;
+  font-size: clamp(40px, 4.4vw, 68px);
+  line-height: 1;
+  letter-spacing: -0.055em;
+  font-weight: 400;
+  margin: 16px 0 22px;
+}
+#sn-billiard-form > p {
+  font-size: 14px;
+  line-height: 1.65;
+  color: #c2cbbf;
+  max-width: 48ch;
+  margin-bottom: 28px;
+}
+#sn-billiard-form label {
+  display: block;
+  margin: 20px 0;
+  font-size: 12px;
+  font-weight: 600;
+}
+#sn-billiard-form select {
+  display: block;
+  width: 100%;
+  margin-top: 9px;
+  background: #fff;
+  border: 1px solid #bfc8b9;
+  padding: 14px;
+  font-size: 14px;
+  color: #263829;
+}
+.sn-billiard-config-actions {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 25px;
+}
+.sn-billiard-config-actions button,
+.sn-billiard-config-actions a {
+  padding: 14px 18px;
+  font-size: 12px;
+  border: 1px solid #a5b9a1;
+  cursor: pointer;
+}
+.sn-billiard-config-actions button {
+  background: #263d2c;
+  color: #fff;
+}
+.sn-billiard-config-actions a {
+  color: #edf3e8;
+}
+#sn-billiard-form .sn-billiard-note {
+  font-size: 11px;
+  margin-top: 16px;
+  color: #b7c2b4;
+}
+@media (max-width: 800px) {
+  .sn-billiard-config-grid {
+    grid-template-columns: 1fr;
+  }
+  .sn-gate-card {
+    left: 24px;
+  }
+  .sn-gate-stage {
+    min-height: 100svh;
+  }
+  .sn-gate-photo {
+    width: 70%;
+    right: -10%;
+    opacity: 0.35;
+  }
+}
+@media (max-width: 560px) {
+  .sn-gate-card {
+    top: 30px;
+    left: 16px;
+    transform: none;
+    width: calc(100% - 32px);
+    padding: 26px;
+  }
+  .sn-gate-back {
+    margin-bottom: 20px;
+  }
+  .sn-gate-card h1 {
+    font-size: 38px;
+  }
+  .sn-gate-stage {
+    min-height: 850px;
+  }
+  .sn-billiard-config-head {
+    display: block;
+  }
+  .sn-billiard-config-head span {
+    display: block;
+    margin-top: 12px;
+  }
+  .sn-billiard-config {
+    padding-top: 16px;
+  }
+}

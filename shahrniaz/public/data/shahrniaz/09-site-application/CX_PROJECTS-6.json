@@ -1,0 +1,146 @@
+{
+  "interior": [
+    [
+      "apartment",
+      "Apartment",
+      "آپارتمان",
+      "calm"
+    ],
+    [
+      "villa",
+      "Villa / house",
+      "ویلا / خانه",
+      "warm"
+    ],
+    [
+      "office",
+      "Office",
+      "اداری",
+      "office"
+    ],
+    [
+      "retail",
+      "Retail",
+      "تجاری",
+      "atrium"
+    ],
+    [
+      "hospitality",
+      "Hospitality",
+      "هتل / رستوران",
+      "food"
+    ],
+    [
+      "renovation",
+      "Renovation",
+      "بازسازی",
+      "kitchen"
+    ],
+    [
+      "other",
+      "Something else",
+      "چیز دیگر",
+      null
+    ]
+  ],
+  "exterior": [
+    [
+      "villa",
+      "Villa / house",
+      "ویلا / خانه",
+      "villa"
+    ],
+    [
+      "residential",
+      "Residential building",
+      "ساختمان مسکونی",
+      "residential"
+    ],
+    [
+      "tower",
+      "Tower / mixed use",
+      "برج / چندمنظوره",
+      "tower"
+    ],
+    [
+      "office",
+      "Office building",
+      "ساختمان اداری",
+      "office"
+    ],
+    [
+      "retail",
+      "Commercial",
+      "تجاری",
+      "commercial"
+    ],
+    [
+      "landscape",
+      "Landscape",
+      "محوطه",
+      "garden"
+    ],
+    [
+      "facade",
+      "Facade renewal",
+      "بازطراحی نما",
+      "mall"
+    ],
+    [
+      "other",
+      "Something else",
+      "چیز دیگر",
+      null
+    ]
+  ],
+  "both": [
+    [
+      "villa",
+      "Villa / house",
+      "ویلا / خانه",
+      "villa"
+    ],
+    [
+      "apartment",
+      "Apartment",
+      "آپارتمان",
+      "calm"
+    ],
+    [
+      "residential",
+      "Residential building",
+      "ساختمان مسکونی",
+      "residential"
+    ],
+    [
+      "tower",
+      "Tower / mixed use",
+      "برج / چندمنظوره",
+      "tower"
+    ],
+    [
+      "office",
+      "Office",
+      "اداری",
+      "office"
+    ],
+    [
+      "retail",
+      "Commercial",
+      "تجاری",
+      "commercial"
+    ],
+    [
+      "hospitality",
+      "Hospitality",
+      "هتل / رستوران",
+      "food"
+    ],
+    [
+      "other",
+      "Something else",
+      "چیز دیگر",
+      null
+    ]
+  ]
+}
